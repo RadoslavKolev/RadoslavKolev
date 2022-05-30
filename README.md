@@ -37,6 +37,17 @@
   </a>
 </p>
 
+<h3 align="left">:fire: My Stats :</h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=RadoslavKolev&show_icons=true&theme=radical" alt="My Stats"/>
+</p>
+<p align="left">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=RadoslavKolev&theme=radical" alt="My Stats"/> 
+</p>
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadoslavKolev&layout=compact&theme=radical" alt="My Stats"/>
+</p>
+
 <h3 align="left">📞 Connect With Me</h3>
 <p align="left">Feel free to follow me here on GitHub or my other social medias:</p>
 <p align="left">
@@ -61,15 +72,4 @@
   <a href="mailto:radoslav.kolev02@gmail.com">
     <img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="Gmail Logo" width="45" height="40" title="Gmail"/>
   </a>
-</p>
-
-<h3 align="left">:fire: My Stats :</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=RadoslavKolev&show_icons=true&theme=radical" alt="My Stats"/>
-</p>
-<p align="left">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=RadoslavKolev&theme=radical" alt="My Stats"/> 
-</p>
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadoslavKolev&layout=compact&theme=radical" alt="My Stats"/>
 </p>
