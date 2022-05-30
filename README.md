@@ -8,7 +8,8 @@
 <p align="left">👨‍💻 Currently, I'm unemployed but I'm looking for interships and junior positions as a Web developer to get the necessary knowledge and work experience in the field of information technologies and software development.</p>
 <p align="left">👑 I'm a life long learner. I would like to become a Web developer and maybe in the future, I would like to teach people some JavaScript or the MERN stack. I'm a quick learner and I'm trying to work as fast as I can. I'm also a self-learner - sometimes, when I'm bored, I like to do some simple projects to maintain and eventually improve my skills.</p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
+<p align="left">These are the technologies I use most often when it comes to Web development:</p>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" alt="HTML Logo" width="35" height="40"/> 
