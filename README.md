@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rado</h1>
 <h3 align="center">I'm a 23 years old student from Bulgaria who is extremely motivated to learn something new every single day and also to gain experience in the field of Fullstack Development.</h3>
 
-<h4 align="left">Resume:</h4>
+<h3 align="left">Resume:</h3>
 <p align="left">💡 How can I develop a great software that customers would love? That's the question I ask myself every single time when I have to do а project, whether it's for university or for work. In each case it has come down to creativity and experience.</p>
 <p align="left">🎓 At the moment, I'm a senior student at Technical University of Varna, studying Software and Internet technologies and also Web Development at SoftUni Bulgaria. In my 4 years of education and practice, I went through many programming languages such as C/C++, Java, JavaScript, PHP, C#, Python but my personal favorite is JavaScript and its React framework. That's why I want to become a Web developer and slowly build my way up to a Fullstack.</p>
 <p align="left">💻 As a developer I'm trying my best to create things that are unique. I use algorithms, design patterns and engineering principles to craft and mold products that the customers would love. At the same time I'm efficient and perfectionist - everything I do has to be perfect. I have to be creative to put all these pieces together.</p>
