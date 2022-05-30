@@ -55,13 +55,10 @@
     <img src="https://seeklogo.com/images/S/stack-overflow-logo-AC73FF9063-seeklogo.com.png" alt="Stackoverflow Logo" width="40" height="40"/>
   </a>
 </p>
-<p align="left">Or contact me through my emails:</p>
+<p align="left">Or contact me through my Gmail:</p>
 <p align="left">
   <a href="mailto:radoslav.kolev02@gmail.com">
     <img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="Gmail Logo" width="45" height="40"/>
-  </a>&nbsp;
-  <a href="mailto:radoslav.kolev@abv.bg">
-    <img src="https://img.abv.bg/abvmobile/i/abv-logo-iPhone.png" alt="ABV Logo" width="90" height="40"/>
   </a>
 </p>
 
