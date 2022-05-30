@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Rado</h1>
 <h3 align="center">I'm a 23 years old student from Bulgaria who is extremely motivated to learn something new every single day and also to gain experience in the field of Fullstack Development.</h3>
 
-<h3 align="left">Resume:</h3>
+<h3 align="left">👉 About Me</h3>
 <p align="left">💡 How can I develop a great software that customers would love? That's the question I ask myself every single time when I have to do а project, whether it's for university or for work. In each case it has come down to creativity and experience.</p>
 <p align="left">🎓 At the moment, I'm a senior student at Technical University of Varna, studying Software and Internet technologies and also Web Development at SoftUni Bulgaria. In my 4 years of education and practice, I went through many programming languages such as C/C++, Java, JavaScript, PHP, C#, Python but my personal favorite is JavaScript and its React framework. Since kid, I have was always been interested in the design and appearance of a website. That's why I want to become a Frontend Web Developer and slowly build my way up, until I reach my dream Fullstack position.</p>
 <p align="left">💻 As a developer I'm trying my best to create things that are unique. I use algorithms, design patterns and engineering principles to craft and mold products that the customers would love. At the same time I'm efficient and perfectionist - everything I do has to be perfect. I have to be creative to put all these pieces together.</p>
 <p align="left">👨‍💻 Currently, I'm unemployed but I'm looking for interships and junior positions as a Web developer to get the necessary knowledge and work experience in the field of information technologies and software development.</p>
 <p align="left">👑 I'm a life long learner. I would like to become a Web developer and maybe in the future, I would like to teach people some JavaScript or the MERN stack. I'm a quick learner and I'm trying to work as fast as I can. I'm also a self-learner - sometimes, when I'm bored, I like to do some simple projects to maintain and eventually improve my skills.</p>
 
-<h3 align="left">Languages and Tools</h3>
+<h3 align="left">🛠️ Languages and Tools</h3>
 <p align="left">These are the technologies I use most often when it comes to Web development:</p>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -37,7 +37,7 @@
   </a>
 </p>
 
-<h3 align="left">Connect With Me</h3>
+<h3 align="left">📞 Connect With Me</h3>
 <p align="left">Feel free to follow me here on GitHub or my other social medias:</p>
 <p align="left">
   <a href = "https://www.linkedin.com/in/radokolev/">
@@ -63,7 +63,11 @@
   </a>
 </p>
 
-<h3 align="left">My Stats</h3>
+<h3 align="left">:fire: My Stats :</h3>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RadoslavKolev&show_icons=true&theme=radical" alt="My Stats"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=RadoslavKolev&show_icons=true&theme=radical" alt="My Stats"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=RadoslavKolev&theme=radical" alt="My Stats"/><br> 
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadoslavKolev&layout=compact&theme=radical" alt="My Stats"/>
 </p>
