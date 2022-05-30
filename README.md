@@ -64,10 +64,12 @@
 </p>
 
 <h3 align="left">:fire: My Stats :</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=RadoslavKolev&show_icons=true&theme=radical" alt="My Stats"/>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=RadoslavKolev&theme=radical" alt="My Stats"/><br> 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=RadoslavKolev&show_icons=true&theme=radical" alt="My Stats"/>
 </p>
-<p align="center">
+<p align="left">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=RadoslavKolev&theme=radical" alt="My Stats"/> 
+</p>
+<p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadoslavKolev&layout=compact&theme=radical" alt="My Stats"/>
 </p>
