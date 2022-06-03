@@ -51,19 +51,19 @@
 <h3 align="left">📞 Connect With Me</h3>
 <p align="left">Feel free to follow me here on GitHub or my other social medias:</p>
 <p align="left">
-  <a href = "https://www.linkedin.com/in/radokolev/">
+  <a href = "https://www.linkedin.com/in/radokolev/" target="_blank">
     <img src="https://seeklogo.com/images/L/linkedin-new-2020-logo-E14A5D55ED-seeklogo.com.png" alt="LinkedIn Logo" width="40" height="40" title="LinkedIn"/>
   </a>&nbsp;
-  <a href = "https://www.facebook.com/radoslavkolev99/">
+  <a href = "https://www.facebook.com/radoslavkolev99/" target="_blank">
     <img src="https://seeklogo.com/images/F/facebook-icon-logo-AEF3A8F447-seeklogo.com.png" alt="Facebook Logo" width="40" height="40" title="Facebook"/>
   </a>&nbsp;
-  <a href = "https://www.instagram.com/radogotstyle/">
+  <a href = "https://www.instagram.com/radogotstyle/" target="_blank">
     <img src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" alt="Instagram Logo" width="40" height="40" title="Instagram"/>
   </a>&nbsp;
-  <a href = "https://twitter.com/RadoslavKolev15">
+  <a href = "https://twitter.com/RadoslavKolev15" target="_blank">
     <img src="https://seeklogo.com/images/T/twitter-2012-positive-logo-916EDF1309-seeklogo.com.png" alt="Twitter Logo" width="40" height="40" title="Twitter"/>
   </a>&nbsp;
-  <a href = "https://stackoverflow.com/users/18251841/radoslav-kolev">
+  <a href = "https://stackoverflow.com/users/18251841/radoslav-kolev" target="_blank">
     <img src="https://seeklogo.com/images/S/stack-overflow-logo-AC73FF9063-seeklogo.com.png" alt="Stack Overflow Logo" width="40" height="40" title="Stack Overflow"/>
   </a>
 </p>
