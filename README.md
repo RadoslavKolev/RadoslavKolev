@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rado</h1>
-<h3 align="center">I'm a 23 years old student from Bulgaria who is extremely motivated to learn something new every single day and also to gain experience in the field of Fullstack Development.</h3>
+<h3 align="center">I'm a 23 years old software engineer student from Bulgaria who is extremely motivated to learn something new every single day and also to gain experience in the field of Fullstack Development.</h3>
 
 <h3 align="left">👉 About Me</h3>
 <p align="left">💡 How can I develop a great software that customers would love? That's the question I ask myself every single time when I have to do а project, whether it's for university or for work. In each case it has come down to creativity and experience.</p>
